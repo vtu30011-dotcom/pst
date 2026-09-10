@@ -7,6 +7,7 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30011-dotcom/pst/tree/master/1600-throne-inheritance) |
 ## Tree
 |  |
@@ -20,6 +21,7 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/vtu30011-dotcom/pst/tree/master/1600-throne-inheritance) |
 ## Array
@@ -48,4 +50,8 @@ lab
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
+## String
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
