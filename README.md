@@ -33,6 +33,7 @@ lab
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
+| [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
@@ -70,6 +71,7 @@ lab
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vtu30011-dotcom/pst/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30011-dotcom/pst/tree/master/0796-rotate-string) |
@@ -154,5 +156,10 @@ lab
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
