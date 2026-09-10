@@ -166,4 +166,8 @@ lab
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [1185-day-of-the-week](https://github.com/vtu30011-dotcom/pst/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
