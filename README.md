@@ -45,6 +45,7 @@ lab
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/vtu30011-dotcom/pst/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/vtu30011-dotcom/pst/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
@@ -226,4 +227,8 @@ lab
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu30011-dotcom/pst/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu30011-dotcom/pst/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
