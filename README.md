@@ -53,6 +53,7 @@ lab
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vtu30011-dotcom/pst/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
+| [1672-richest-customer-wealth](https://github.com/vtu30011-dotcom/pst/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30011-dotcom/pst/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu30011-dotcom/pst/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
@@ -175,6 +176,7 @@ lab
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
+| [1672-richest-customer-wealth](https://github.com/vtu30011-dotcom/pst/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
