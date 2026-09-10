@@ -35,6 +35,7 @@ lab
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
+| [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -133,4 +134,12 @@ lab
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
