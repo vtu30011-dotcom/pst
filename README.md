@@ -30,6 +30,7 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ lab
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30011-dotcom/pst/tree/master/0796-rotate-string) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ lab
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30011-dotcom/pst/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
