@@ -13,6 +13,7 @@ lab
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30011-dotcom/pst/tree/master/1600-throne-inheritance) |
+| [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -43,6 +44,7 @@ lab
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
+| [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@ lab
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu30011-dotcom/pst/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ lab
 | ------- |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
