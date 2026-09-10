@@ -54,6 +54,7 @@ lab
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 ## Simulation
 |  |
@@ -63,4 +64,16 @@ lab
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vtu30011-dotcom/pst/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
