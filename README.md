@@ -8,6 +8,7 @@ lab
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30011-dotcom/pst/tree/master/1600-throne-inheritance) |
 ## Tree
@@ -30,6 +31,7 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -61,6 +63,7 @@ lab
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu30011-dotcom/pst/tree/master/0796-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
