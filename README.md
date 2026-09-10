@@ -20,17 +20,32 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/vtu30011-dotcom/pst/tree/master/1600-throne-inheritance) |
 ## Array
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
