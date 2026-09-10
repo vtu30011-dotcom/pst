@@ -36,6 +36,7 @@ lab
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu30011-dotcom/pst/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vtu30011-dotcom/pst/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
@@ -111,6 +112,7 @@ lab
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu30011-dotcom/pst/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vtu30011-dotcom/pst/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30011-dotcom/pst/tree/master/0876-middle-of-the-linked-list) |
