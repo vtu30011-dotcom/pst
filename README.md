@@ -33,6 +33,7 @@ lab
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
@@ -75,6 +76,7 @@ lab
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/vtu30011-dotcom/pst/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -137,6 +139,7 @@ lab
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 ## Prefix Sum
 |  |
