@@ -31,6 +31,7 @@ lab
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
@@ -87,6 +88,7 @@ lab
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
@@ -121,6 +123,7 @@ lab
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
