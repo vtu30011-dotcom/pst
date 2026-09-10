@@ -7,6 +7,7 @@ lab
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
@@ -32,6 +33,7 @@ lab
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
@@ -147,4 +149,8 @@ lab
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
