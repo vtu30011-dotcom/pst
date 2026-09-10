@@ -42,6 +42,7 @@ lab
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
@@ -62,6 +63,7 @@ lab
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -93,6 +95,7 @@ lab
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/vtu30011-dotcom/pst/tree/master/1603-design-parking-system) |
 ## Counting
