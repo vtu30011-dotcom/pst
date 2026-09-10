@@ -50,6 +50,7 @@ lab
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/vtu30011-dotcom/pst/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30011-dotcom/pst/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
