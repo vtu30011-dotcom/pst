@@ -55,6 +55,7 @@ lab
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30011-dotcom/pst/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
@@ -110,6 +111,7 @@ lab
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30011-dotcom/pst/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
