@@ -53,6 +53,7 @@ lab
 | [1470-shuffle-the-array](https://github.com/vtu30011-dotcom/pst/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30011-dotcom/pst/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/vtu30011-dotcom/pst/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/vtu30011-dotcom/pst/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -102,6 +103,7 @@ lab
 | [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/vtu30011-dotcom/pst/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/vtu30011-dotcom/pst/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
