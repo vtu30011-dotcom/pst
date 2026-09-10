@@ -44,6 +44,7 @@ lab
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/vtu30011-dotcom/pst/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vtu30011-dotcom/pst/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30011-dotcom/pst/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
@@ -177,6 +178,7 @@ lab
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vtu30011-dotcom/pst/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/vtu30011-dotcom/pst/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30011-dotcom/pst/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
