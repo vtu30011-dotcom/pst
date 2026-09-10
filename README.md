@@ -9,6 +9,7 @@ lab
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu30011-dotcom/pst/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
@@ -43,6 +44,7 @@ lab
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30011-dotcom/pst/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu30011-dotcom/pst/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu30011-dotcom/pst/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/vtu30011-dotcom/pst/tree/master/0704-binary-search) |
@@ -163,6 +165,7 @@ lab
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vtu30011-dotcom/pst/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
