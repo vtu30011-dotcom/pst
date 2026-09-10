@@ -76,6 +76,7 @@ lab
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/vtu30011-dotcom/pst/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30011-dotcom/pst/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ lab
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vtu30011-dotcom/pst/tree/master/1603-design-parking-system) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30011-dotcom/pst/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
