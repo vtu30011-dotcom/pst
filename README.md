@@ -61,6 +61,7 @@ lab
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/vtu30011-dotcom/pst/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
