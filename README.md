@@ -7,6 +7,7 @@ lab
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -34,6 +35,7 @@ lab
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
@@ -75,6 +77,7 @@ lab
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vtu30011-dotcom/pst/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0459-repeated-substring-pattern) |
@@ -165,6 +168,7 @@ lab
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30011-dotcom/pst/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vtu30011-dotcom/pst/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30011-dotcom/pst/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30011-dotcom/pst/tree/master/0347-top-k-frequent-elements) |
