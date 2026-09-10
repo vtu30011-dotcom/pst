@@ -33,6 +33,7 @@ lab
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30011-dotcom/pst/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu30011-dotcom/pst/tree/master/0890-find-and-replace-pattern) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 | [1408-string-matching-in-an-array](https://github.com/vtu30011-dotcom/pst/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/vtu30011-dotcom/pst/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -86,6 +87,7 @@ lab
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu30011-dotcom/pst/tree/master/0005-longest-palindromic-substring) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -116,4 +118,16 @@ lab
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30011-dotcom/pst/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu30011-dotcom/pst/tree/master/0438-find-all-anagrams-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu30011-dotcom/pst/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
